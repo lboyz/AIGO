@@ -1,4 +1,4 @@
-# aigo
+# AIGO
 
 A new Flutter project.
 
